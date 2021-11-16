@@ -1,0 +1,7 @@
+D:\C#\APP\ЕnglishBreakfast\ЕnglishBreakfast\bin\Debug\ЕnglishBreakfast.exe.config
+D:\C#\APP\ЕnglishBreakfast\ЕnglishBreakfast\bin\Debug\ЕnglishBreakfast.exe
+D:\C#\APP\ЕnglishBreakfast\ЕnglishBreakfast\bin\Debug\ЕnglishBreakfast.pdb
+D:\C#\APP\ЕnglishBreakfast\ЕnglishBreakfast\obj\Debug\ЕnglishBreakfast.csproj.AssemblyReference.cache
+D:\C#\APP\ЕnglishBreakfast\ЕnglishBreakfast\obj\Debug\ЕnglishBreakfast.csproj.CoreCompileInputs.cache
+D:\C#\APP\ЕnglishBreakfast\ЕnglishBreakfast\obj\Debug\ЕnglishBreakfast.exe
+D:\C#\APP\ЕnglishBreakfast\ЕnglishBreakfast\obj\Debug\ЕnglishBreakfast.pdb
